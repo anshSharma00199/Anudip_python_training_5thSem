@@ -15,5 +15,5 @@ else:
     category = "High Consumption"
 
 print("Units Consumed:", units)
-print("Total Bill: ₹", bill)
+print("Total Bill: Rs.", bill)
 print("Category:", category)
