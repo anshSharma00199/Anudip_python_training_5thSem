@@ -4,8 +4,8 @@
 player_score = []
 
 # input score from user
-for i in range(11):
-    score = int(input("Enter the score of player {}: "))
+for i in range(1,11):
+    score = int(input(f"Enter the score of player{i}: "))
     player_score.append(score)
 
 # print the scores
