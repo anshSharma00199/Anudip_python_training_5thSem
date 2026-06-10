@@ -1,7 +1,10 @@
 'create a python programming which provides the menu to the user to select the 2D figures(Circle,Triangle, Square).'
 'After selcting figure User is again asked to provide the input of corresponding data for the figure. '
-'After input of corresponding data again provide a menu to select the operation-> area, perimeter and as per the data provided by the user display the result of operation.'
+'After input of corresponding data again provide a menu to select the operation-> area, perimeter and as per the data '
+'provided by the user display the result of operation.'
 'This task will be repeated again and untill user selects the option 2. exit fronm that figure.'
+
+
 import math
 
 # Circle

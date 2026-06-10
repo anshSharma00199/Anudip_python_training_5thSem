@@ -19,9 +19,9 @@ while True:
             op = int(input("Enter choice: "))
 
             if op == 1:
-                print("Area =", area_circle(r))
+                print("Area of Circle =", area_circle(r))
             elif op == 2:
-                print("Perimeter =", perimeter_circle(r))
+                print("Perimeter of Circle =", perimeter_circle(r))
             elif op == 3:
                 break
             else:
@@ -38,13 +38,13 @@ while True:
             if op == 1:
                 b = float(input("Enter base: "))
                 h = float(input("Enter height: "))
-                print("Area =", area_triangle(b, h))
+                print("Area of triangle =", area_triangle(b, h))
 
             elif op == 2:
                 a = float(input("Enter side 1: "))
                 b = float(input("Enter side 2: "))
                 c = float(input("Enter side 3: "))
-                print("Perimeter =", perimeter_triangle(a, b, c))
+                print("Perimeter of triangle =", perimeter_triangle(a, b, c))
 
             elif op == 3:
                 break
@@ -63,9 +63,9 @@ while True:
             op = int(input("Enter choice: "))
 
             if op == 1:
-                print("Area =", area_square(s))
+                print("Area of Square =", area_square(s))
             elif op == 2:
-                print("Perimeter =", perimeter_square(s))
+                print("Perimeter of Square =", perimeter_square(s))
             elif op == 3:
                 break
             else:
