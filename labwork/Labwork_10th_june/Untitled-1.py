@@ -1,0 +1,2 @@
+y="College Event Management System using Core Python with file handling for student registration, event management, team formation, payment tracking, certificate eligibility, and report generation."
+print(len(y))
